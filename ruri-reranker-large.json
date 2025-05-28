@@ -1,0 +1,9 @@
+{
+    "model_name": "ruri-reranker-large",
+    "type": "normal",
+    "model_id": "cl-nagoya/ruri-reranker-large",
+    "language": [
+        "ja"
+    ]
+}
+

@@ -1,0 +1,10 @@
+{
+    "model_name": "ruri-large",
+    "model_type": "embedding",
+    "model_id": "cl-nagoya/ruri-large",
+    "dimensions": 1024,
+    "max_tokens": 512,
+    "language": [
+        "ja"
+    ]
+}
